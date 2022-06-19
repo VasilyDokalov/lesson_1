@@ -6,7 +6,7 @@ public class job_2 {
         int x = iScanner.nextInt();
         iScanner.close();
 
-        int Sum=0;
+        int Sum = 0;
 
         while (x>10) {
             Sum = Sum + x%10;
