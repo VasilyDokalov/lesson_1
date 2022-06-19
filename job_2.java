@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import javax.security.sasl.SaslException;
 public class job_2 {
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
